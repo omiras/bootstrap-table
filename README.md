@@ -78,3 +78,7 @@ El verdadero reto de esta práctica es entender la documentación de una herrami
     3. Añade un evento de manera que, al hacer clic en el botón de añadir, se actualice la variable **url** y ejecute un método de actualización de la tabla Bootstrap
     4. https://examples.bootstrap-table.com/index.html?bootstrap5#issues/409.html
 </details>
+
+## Solución
+
+Solución de Santi Castelli y Juan Pablo Romero [Enlace](https://github.com/SantiCastelli/bootstrap-table)
